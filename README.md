@@ -2,7 +2,7 @@
 
 Structure:
 
-----Coursework: current third-year coursework, on which I'm working
+----Coursework: current third-year coursework, on which I'm working \n 
 ----Data Science Competitions: folder with jupyter notebooks from online championships
 ----Econometrics: files from my homeworks
 ----Bonds download: part of my 2nd-year coursework (python, selenium)
