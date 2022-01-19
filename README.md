@@ -2,7 +2,7 @@
 
 Structure:
 
----- Coursework: current third-year coursework, on which I'm working; 
+---- Coursework: 
 
 ---- Data Science Competitions: folder with jupyter notebooks from online championships;
 
