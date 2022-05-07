@@ -4,6 +4,8 @@ Structure:
 
 ---- THESIS (needs updating)
 
+---- Research Assistant (needs updating)
+
 ---- Data Science Competitions: folder with jupyter notebooks from online championships;
 
 ---- Econometrics: files from my homeworks;
