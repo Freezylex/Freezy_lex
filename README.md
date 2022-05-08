@@ -2,7 +2,7 @@
 
 Structure:
 
----- THESIS (needs updating)
+---- Thesis: my final work as an undergraduate student in HSE.
 
 ---- Research Assistant (needs updating)
 
