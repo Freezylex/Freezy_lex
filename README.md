@@ -2,7 +2,7 @@
 
 Structure:
 
----- Thesis: my final work as an undergraduate student in HSE.
+---- Thesis: my final work as an undergraduate student in HSE. Topic: Liquidity Premium Estimation in the Russian Government Bonds Market
 
 ---- Research Assistant (needs updating)
 
